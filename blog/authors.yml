@@ -1,0 +1,33 @@
+ChengXun:
+  name: Chai Cheng Xun
+  title: Cybersecurity Lead @ GDGoC
+  url: https://chai-cheng-xun.web.app
+  image_url: https://res.cloudinary.com/dur07sfvb/image/upload/v1704616799/IMG_2499_u987xp.jpg
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-chai-cheng-xun-articles'
+  socials:
+    linkedin: https://www.linkedin.com/in/chai-cheng-xun/
+    github: https://qiaonpc.github.io
+  
+Eric:
+  name: Eric Hendryani
+  title: Cybersecurity Co-Lead @ GDGoC
+  url: https://github.com/Cofastic
+  image_url: https://github.com/Cofastic.png
+  page: 
+    permalink: '/all-eric-hendryani-articles'
+  socials:
+    linkedin: erichendryani
+    medium: https://medium.com/@erichdryn
+    github: cofastic
+    
+Zxuan:
+  name: Low Ze Xuan
+  title: Cybersecurity Trainee @ GDGoC
+  image_url: https://media.licdn.com/dms/image/v2/D4E03AQEotMQRtfC5tw/profile-displayphoto-shrink_400_400/B4EZUPak5aGwAg-/0/1739720380837?e=1747267200&v=beta&t=_eATNhlm3twGSPexiT3ASy3608SQqx4K5lrhjVl_GX8
+  page:
+    permalink: '/all-low-ze-xuan-articles'
+  socials:
+    linkedin: low-ze-xuan-a0728322a
+
